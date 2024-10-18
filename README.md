@@ -27,3 +27,14 @@ I'm Brady. I'm a software engineer based out of Columbia, SC.
 - 📫 How to reach me: [see my contact links on mboleary.dev](https://mboleary.dev/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I played the clarinet for 11 years and marched in the [University of South Carolina's Carolina Band](https://www.youtube.com/user/TheCarolinaBand/featured)
+
+```
+ ______________________________
+< I mount my soul at /dev/null >
+ ------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
