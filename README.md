@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Brady. I'm a software engineer based out of Columbia, SC.
+
+- 🔭 I’m currently working on [this Music Library](https://github.com/mboleary/test-ts-game/tree/music_engine_fe/package/music_engine) outside of my day job
+- 🌱 I’m currently learning Rust and about software audio synthesis
+- 💬 Ask me about:
+  - retro computing
+  - music theory
+  - game development
+  - microservice architecture
+- 📫 How to reach me: [see my contact links on mboleary.dev](https://mboleary.dev/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I played the clarinet for 11 years and marched in the [University of South Carolina's Carolina Band](https://www.youtube.com/user/TheCarolinaBand/featured)
