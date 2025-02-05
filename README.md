@@ -23,6 +23,8 @@ I'm Brady. I'm a software engineer based out of Columbia, SC.
   - retro computing
   - music theory
   - game development
+  - Web Applications
+  - Typescript
   - microservice architecture
 - 📫 How to reach me: [see my contact links on mboleary.dev](https://mboleary.dev/)
 - 😄 Pronouns: he/him
