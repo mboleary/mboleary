@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Brady. I'm a software engineer based out of Columbia, SC.
 
-- 🔭 I’m currently working on [this Music Library](https://github.com/mboleary/test-ts-game/tree/music_engine_fe/package/music_engine) outside of my day job
+- 🔭 I’m currently working on [this Music Library](https://github.com/mboleary/test-ts-game/tree/master/package/music_engine) outside of my day job
 - 🌱 I’m currently learning Rust and about software audio synthesis
 - 💬 Ask me about:
   - retro computing
