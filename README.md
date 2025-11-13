@@ -20,7 +20,11 @@ I'm Brady. I'm a software engineer based out of Columbia, SC.
 - 🔭 I’m currently working on a few different projects outside of my day job, including:
   - [The Music Engine](https://github.com/mboleary/test-ts-game/tree/master/package/music_engine)
   - [A Typescript Game Engine](https://github.com/mboleary/test-ts-game/tree/master)
-- 🌱 I’m currently learning Rust and about software audio synthesis
+- 🌱 I’m currently learning about:
+  - software audio synthesis
+  - Rust
+  - Nix
+  - Software Architecture
 - 💬 Ask me about:
   - retro computing
   - music theory
